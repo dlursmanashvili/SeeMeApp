@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeeMe", "SeeMe\SeeMe.csproj", "{C27E8968-5318-49C4-AEBE-11781C4F5967}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeeMeDataAccess", "ClassLibrary1\SeeMeDataAccess.csproj", "{03D545D8-FE35-4040-BC29-FA70ED436E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeeMeForm", "SeeMeForm\SeeMeForm.csproj", "{96D0D863-CFFD-4940-8E56-0B45D0CB3CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C27E8968-5318-49C4-AEBE-11781C4F5967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27E8968-5318-49C4-AEBE-11781C4F5967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27E8968-5318-49C4-AEBE-11781C4F5967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27E8968-5318-49C4-AEBE-11781C4F5967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D545D8-FE35-4040-BC29-FA70ED436E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D545D8-FE35-4040-BC29-FA70ED436E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D545D8-FE35-4040-BC29-FA70ED436E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D545D8-FE35-4040-BC29-FA70ED436E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D0D863-CFFD-4940-8E56-0B45D0CB3CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D0D863-CFFD-4940-8E56-0B45D0CB3CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D0D863-CFFD-4940-8E56-0B45D0CB3CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D0D863-CFFD-4940-8E56-0B45D0CB3CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA64A58-E871-46AE-ACE8-FE6EAA73654E}
+	EndGlobalSection
+EndGlobal
